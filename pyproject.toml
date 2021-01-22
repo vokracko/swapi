@@ -2,7 +2,7 @@
 name = "swapi"
 version = "0.1.0"
 description = ""
-authors = ["Lukáš Vokráčko <lukas@vokracko.cz>"]
+authors = ["Lukáš Vokráčko <lukas@vokracko.cz>", "Paul Hallett github.com/phalt"]
 
 [tool.poetry.dependencies]
 python = "^2"

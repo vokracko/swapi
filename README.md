@@ -1,8 +1,6 @@
 # SWAPI
-## The Star Wars API
+- Dockerized version of [phalt/swapi](https://github.com/phalt/swapi)
 
-## NO LONGER MAINTAINED!
-
-If you rely on this project for your own tools - then please fork and spin up your own instance. It's a pretty simple project, and the Makefile will take you a long way.
-
-If you are looking for an API to play with to learn about APIs, then I recommend [https://pokeapi.co](https://pokeapi.co).
+## Usage
+- Build and run the image: `docker-compose up --build`
+- Interface is accesible on [localhost:8000](localhost:8000)
